@@ -1,6 +1,4 @@
-# Bluesky Social App
-
-Welcome friends! This is the codebase for the Bluesky Social app.
+# Bluesky Social App Fork
 
 Get the app itself:
 
